@@ -1,16 +1,23 @@
-## Hi there 👋
+# Carlos Eduardo
+**Sou desenvolvedor de sistemas, amante da tecnologia.**
 
-<!--
-**Vetoretti7/Vetoretti7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Educação
+**linguagens de programção e desenvolvimento de software/ingles.**
+>Estudante atuando na escola **senac** realizando curso tecnico.
 
-Here are some ideas to get you started:
+**Hobbies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Estudar e se desenvolver 📚.
+* Jogar videogame 🎮.
+* Participar das aulas de programção 💻.
+* Sair para comer 🍣.
+
+[link para entrar em contato](https://instragram.com/duduvetoretti)
+😎👍
+
+
+
+
+
+
+
